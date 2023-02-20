@@ -1,0 +1,42 @@
+{
+  "program": {
+    "candyMachine": "Ahe1PyAafPrSfzG5Uec7kowoypbQQn8bgSu38PWXMwGb",
+    "candyGuard": "522nhV8GPZnZfy63PrUHWNLzGBG1x1srkcQcWKhFw2YS",
+    "candyMachineCreator": "EFuJvRWXeiUvVUk2xX7jo5rbwgVh54GwgQNUoWxN5AQ8",
+    "collectionMint": "GcX5XHnKRPMvYFbzU52W1dBCNAxGhEPxni18gdLgFidm"
+  },
+  "items": {
+    "-1": {
+      "name": "Astro Collection",
+      "image_hash": "14f600aca52e324542af8ebbb5887341dcae2d3a3eeab1b18a655b8ebd044b1f",
+      "image_link": "https://arweave.net/7DMKuepyowGgGvayIvufxF0ztqtpc32uJWjofeiZJIs?ext=png",
+      "metadata_hash": "a276ea2add4e121b88a0e6b73ea625caa596e77ff2f81027e0486e86f557fa7c",
+      "metadata_link": "https://arweave.net/W13bS4DKWeK5cE8NB8FNHzUYqWAIO021gRQ2jRsW9xc",
+      "onChain": true
+    },
+    "0": {
+      "name": "Astro #1",
+      "image_hash": "72820598374dac824533aab4c16dd460b62d886aad436700806d4b49101252f4",
+      "image_link": "https://arweave.net/GtAUjJ0hp0z18BbfKv91KnRxZ0vEheyhl0XbIJrWUpQ?ext=png",
+      "metadata_hash": "ffc763aedb0d8af6c7e8ef8f0e250f9a96d392a956fa2dacb85014863aba4e67",
+      "metadata_link": "https://arweave.net/qsTibTBAMErVP_mEsAppVVlTs7P7PQ00ggJ-F6SzB54",
+      "onChain": true
+    },
+    "1": {
+      "name": "Astro #2",
+      "image_hash": "8792026eee889a79a23389f0852e766f5e28ab23a4ed2d4b520673029f4c0779",
+      "image_link": "https://arweave.net/cBC3KNJqsuH4_E71fwdoLhJsKobnfDMJzEJlfeCalHc?ext=png",
+      "metadata_hash": "4c17c241e77783e9c73cfdcabc6f7e9a5a4d7285f0c9b866b71474c9bce24a9d",
+      "metadata_link": "https://arweave.net/FPlj_FXtGivdV6H5PsAru_KNAwoseMKWa-AXX4Acje0",
+      "onChain": true
+    },
+    "2": {
+      "name": "Astro #3",
+      "image_hash": "c2fdc14a37457c17e45fb09da33996a4709e5e3da1af11c8a6036f8027b5036d",
+      "image_link": "https://arweave.net/lXn4EENJb-9BhVqgsjmH7zEXgEweS__Sz9zRC_o0-ZQ?ext=png",
+      "metadata_hash": "695bac63532d8b0b16af65a95c060a83aef58a7066dcdb720b3f61a7fe15f9c0",
+      "metadata_link": "https://arweave.net/PZfeo44OlgreY8AXrVVwNd0M5manaJM-LPROM0BNJew",
+      "onChain": true
+    }
+  }
+}

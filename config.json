@@ -1,0 +1,100 @@
+{
+  "number": 3,
+  "symbol": "SUP",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "B2xCLqL23QmSa9ca3QdWxz3zM2Z5JJFmyNYWKwZjdE59",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+    },
+    "groups": [
+      {
+        "label": "OG",
+        "guards": {
+          "solPayment": {
+            "value": 0.1,
+            "destination": "B1T5sXwf4pgq9dtD92Po2zHrBQAAZwRjr3KXtGfyc4KS"
+          },
+          "startDate": {
+            "date": "2023-02-19T09:00:00Z"
+          },
+          "endDate": {
+            "date": "2024-02-21T03:00:00Z"
+          },
+          "botTax": {
+            "value": 0.01,
+            "lastInstruction": true
+          },
+          "mintLimit": {
+            "id": 1,
+            "limit": 2
+          },
+          "allowList": {
+            "merkleRoot": "429b79252cff010b3cdce6a649f7ba55b7bd7a432cfe53c057dd047adde5424a"
+          }
+        }
+      },
+      {
+        "label": "WL",
+        "guards": {
+          "solPayment": {
+            "value": 0.2,
+            "destination": "B1T5sXwf4pgq9dtD92Po2zHrBQAAZwRjr3KXtGfyc4KS"
+          },
+          "startDate": {
+            "date": "2023-02-19T09:00:00Z"
+          },
+          "endDate": {
+            "date": "2024-02-22T03:00:00Z"
+          },
+          "botTax": {
+            "value": 0.02,
+            "lastInstruction": true
+          },
+          "mintLimit": {
+            "id": 2,
+            "limit": 1
+          },
+          "allowList": {
+            "merkleRoot": "c0e353ba242b6d9c720109e6aebd855b503bedeb71419f4f290225f1a2c0fa7f"
+          }
+        }
+      },
+      {
+        "label": "public",
+        "guards": {
+          "solPayment": {
+            "value": 0.3,
+            "destination": "B1T5sXwf4pgq9dtD92Po2zHrBQAAZwRjr3KXtGfyc4KS"
+          },
+          "startDate": {
+            "date": "2023-02-21T09:00:00Z"
+          },
+          "endDate": {
+            "date": "2024-02-21T03:00:00Z"
+          },
+          "botTax": {
+            "value": 0.03,
+            "lastInstruction": true
+          },
+          "mintLimit": {
+            "id": 3,
+            "limit": 1
+          }
+        }
+      }
+    ]
+  }
+}

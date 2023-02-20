@@ -1,0 +1,28 @@
+{
+    "name": "Astro #2",
+    "symbol": "SUP",
+    "description": "Depiction",
+    "image": "1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      },
+      {
+          "trait_type": "Depicts",
+          "value": "Global Warming"
+        }
+        
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+        
+      ],
+      "category":"image"
+    },
+    "seller_fee_basis_points": 500
+  }

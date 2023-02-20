@@ -1,0 +1,28 @@
+{
+    "name": "Astro #3",
+    "symbol": "SUP",
+    "description": "Depiction",
+    "image": "2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      },
+      {
+          "trait_type": "Depicts",
+          "value": "SPIDII"
+        }
+        
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+        
+      ],
+      "category":"image"
+    },
+    "seller_fee_basis_points": 500
+  }

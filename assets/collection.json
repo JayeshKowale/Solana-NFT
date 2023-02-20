@@ -1,0 +1,17 @@
+{
+  "name": "Astro Collection",
+  "symbol": "SUP",
+  "description": "This Astro collection",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "seller_fee_basis_points": 500
+}
